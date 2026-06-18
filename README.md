@@ -34,7 +34,7 @@ Analysis of climate extremes and meteorological datasets.
 - Power BI
 - Python
 - Data Visualization
-- Exploratory Data Analysis## Hi there 👋
+- Exploratory Data Analysis
 
 <!--
 **Iremide89/Iremide89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
